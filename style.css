@@ -9,6 +9,33 @@ body {
     width: 50px;
 }
 
+.navbar {
+    background-color: black;
+    padding: 1%;
+    margin-left: -10px;
+    margin-right: -10px;
+    margin-top: -10px;
+}
+
+.navbar ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.navbar ul li {
+    margin: 0px 10px;
+}
+
+.navbar ul li a {
+    display: block;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: palevioletred;
+    font-size: 20px;
+    text-decoration: None;
+    padding: 5px 10px; /* Add horizontal padding for clickable area */
+}
+
 .header {
     display: flex;
     background-color: lightblue;
@@ -21,6 +48,12 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: center;
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0, 0, 30px, lightblue;
 }
 
 .stats-card {
@@ -72,4 +105,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover {
+    cursor:pointer;
+    color:blue;
 }
