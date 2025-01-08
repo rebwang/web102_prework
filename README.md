@@ -1,8 +1,8 @@
-# WEB102 Prework - *Name of App Here*
+# WEB102 Prework - *Fund Fun Game*
 
 Submitted by: **Rebecca Wang**
 
-**Name of your app** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
+**Fund Fun Game** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
 Time spent: **20** hours spent in total
 
@@ -18,13 +18,13 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 * [x] Navigation Bar
-* [x] css style changes
+* [x] css style changes (button hover and cursor)
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='assets/test.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='assets/prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -35,7 +35,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I didn't face many challenges while building the app. The tasks were somewhat challenging but enjoyable, offering plenty of opportunities to learn new things.
 
 ## License
 
